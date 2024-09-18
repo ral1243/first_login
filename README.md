@@ -1,1 +1,1 @@
-login using php, first one ive ever made
+login kuram izmantoju php un heidisql, ievada vārdu, uzvārdu, lietotājvārdu, paroli un pēc tā var pieslēgties pie sava akounta.
